@@ -1,6 +1,18 @@
 # Terminal Designer
 
     This is a Terminal designer like(Text Processing) ForeGround, BackGround we can change the colors in 3 different ways using this module.
+
+## Install the Package from python
+    https://pypi.org/project/TerminalDesigner/0.0.1/
+    
+(or)
+
+    pip install TerminalDesigner==0.0.1
+
+After installation you can import the package using
+
+    import Designer
+
 ## There are 7 python files.
 - BackGroundColor.py
 - Color.py
