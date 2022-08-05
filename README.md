@@ -484,7 +484,7 @@ This Model have generally used functions. it's have**one class** and **14** func
 
 --------------------------------------------
 
-< style="color:pink">Thank you for visiting--
+# Thank you for visiting--
 
 --------------------------------------------
 
