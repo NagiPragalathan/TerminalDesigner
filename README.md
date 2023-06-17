@@ -25,7 +25,14 @@ We are continuously working on improving TerminalDesigner and adding more exciti
 For more information and code examples, please visit the official TerminalDesigner GitHub repository: [TerminalDesigner](https://github.com/NagiPragalathan/TerminalDesigner)
 
 We hope you enjoy using TerminalDesigner 0.0.1 and that it brings a new level of creativity and visual appeal to your terminal-based projects. Thank you for your support, and happy coding!
-    This is a Terminal designer like(Text Processing) ForeGround, BackGround we can change the colors in 3 different ways using this module.
+
+The tutorial titled "Python Terminal Processing with TerminalDesigner Module" provides a step-by-step guide on how to install TerminalDesigner, explains the various features and functions of the module, and demonstrates practical examples of using TerminalDesigner for text styling, ASCII art conversion, and random text color generation.
+
+By following this tutorial, you will gain a deeper understanding of TerminalDesigner and how to leverage its capabilities to enhance your terminal-based projects. The tutorial is designed to be beginner-friendly and provides clear explanations along with code snippets to help you grasp the concepts easily.
+
+You can access the tutorial on GeeksforGeeks by visiting the following link: [Python Terminal Processing with TerminalDesigner Module](https://www.geeksforgeeks.org/python-terminal-processing-with-terminaldesigner-module/)
+
+We hope this additional resource helps you further explore and master the TerminalDesigner module. Happy learning!
 
 ## Install the Package from python
     https://pypi.org/project/TerminalDesigner/0.0.1/
